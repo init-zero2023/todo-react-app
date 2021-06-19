@@ -1,0 +1,6 @@
+.todo__list{
+    text-align: center;
+}
+.todo__remove{
+    display: inline-block;
+}
